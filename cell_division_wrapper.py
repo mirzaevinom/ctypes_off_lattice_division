@@ -104,6 +104,7 @@ plt.ylabel('$g(x)$')
 plt.show()
 plt.savefig('growth_rate_40steps.png', dpi=400)
 
+
 """
 mlab.close(all=True)
 
